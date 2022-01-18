@@ -7,12 +7,12 @@ American Samoa,The Territory of American Samoa,.as,AS,ASM
 Andorra,The Principality of Andorra,.ad,AD,AND
 Angola,The Republic of Angola,.ao,AO,AGO
 Anguilla,Anguilla,.ai,AI,AIA
-Antarctica [a],All land and ice shelves south of the 60th parallel south,.aq,AQ,ATA
+Antarctica,All land and ice shelves south of the 60th parallel south,.aq,AQ,ATA
 Antigua and Barbuda,Antigua and Barbuda,.ag,AG,ATG
 Argentina,The Argentine Republic,.ar,AR,ARG
 Armenia,The Republic of Armenia,.am,AM,ARM
 Aruba,Aruba,.aw,AW,ABW
-Australia [b],The Commonwealth of Australia,.au,AU,AUS
+Australia,The Commonwealth of Australia,.au,AU,AUS
 Austria,The Republic of Austria,.at,AT,AUT
 Azerbaijan,The Republic of Azerbaijan,.az,AZ,AZE
 Bahamas (the),The Commonwealth of The Bahamas,.bs,BS,BHS
@@ -32,11 +32,11 @@ Botswana,The Republic of Botswana,.bw,BW,BWA
 Bouvet Island,Bouvet Island,,BV,BVT
 Brazil,The Federative Republic of Brazil,.br,BR,BRA
 British Indian Ocean Territory (the),The British Indian Ocean Territory,.io,IO,IOT
-Brunei Darussalam [e],"The Nation of Brunei, the Abode of Peace",.bn,BN,BRN
+Brunei Darussalam,"The Nation of Brunei, the Abode of Peace",.bn,BN,BRN
 Bulgaria,The Republic of Bulgaria,.bg,BG,BGR
 Burkina Faso,Burkina Faso,.bf,BF,BFA
 Burundi,The Republic of Burundi,.bi,BI,BDI
-Cabo Verde [f],The Republic of Cabo Verde,.cv,CV,CPV
+Cabo Verde,The Republic of Cabo Verde,.cv,CV,CPV
 Cambodia,The Kingdom of Cambodia,.kh,KH,KHM
 Cameroon,The Republic of Cameroon,.cm,CM,CMR
 Canada,Canada,.ca,CA,CAN
@@ -50,15 +50,15 @@ Cocos (Keeling) Islands (the),The Territory of Cocos (Keeling) Islands,.cc,CC,CC
 Colombia,The Republic of Colombia,.co,CO,COL
 Comoros (the),The Union of the Comoros,.km,KM,COM
 Congo (the Democratic Republic of the),The Democratic Republic of the Congo,.cd,CD,COD
-Congo (the) [g],The Republic of the Congo,.cg,CG,COG
+Congo (the),The Republic of the Congo,.cg,CG,COG
 Cook Islands (the),The Cook Islands,.ck,CK,COK
 Costa Rica,The Republic of Costa Rica,.cr,CR,CRI
-Côte d'Ivoire [h],The Republic of Côte d'Ivoire,.ci,CI,CIV
+Côte d'Ivoire,The Republic of Côte d'Ivoire,.ci,CI,CIV
 Croatia,The Republic of Croatia,.hr,HR,HRV
 Cuba,The Republic of Cuba,.cu,CU,CUB
 Curaçao,The Country of Curaçao,.cw,CW,CUW
 Cyprus,The Republic of Cyprus,.cy,CY,CYP
-Czechia [i],The Czech Republic,.cz,CZ,CZE
+Czechia,The Czech Republic,.cz,CZ,CZE
 Denmark,The Kingdom of Denmark,.dk,DK,DNK
 Djibouti,The Republic of Djibouti,.dj,DJ,DJI
 Dominica,The Commonwealth of Dominica,.dm,DM,DMA
@@ -69,16 +69,16 @@ El Salvador,The Republic of El Salvador,.sv,SV,SLV
 Equatorial Guinea,The Republic of Equatorial Guinea,.gq,GQ,GNQ
 Eritrea,The State of Eritrea,.er,ER,ERI
 Estonia,The Republic of Estonia,.ee,EE,EST
-Eswatini [j],The Kingdom of Eswatini,.sz,SZ,SWZ
+Eswatini,The Kingdom of Eswatini,.sz,SZ,SWZ
 Ethiopia,The Federal Democratic Republic of Ethiopia,.et,ET,ETH
-Falkland Islands (the) [Malvinas] [k],The Falkland Islands,.fk,FK,FLK
+Falkland Islands (the),The Falkland Islands,.fk,FK,FLK
 Faroe Islands (the),The Faroe Islands,.fo,FO,FRO
 Fiji,The Republic of Fiji,.fj,FJ,FJI
 Finland,The Republic of Finland,.fi,FI,FIN
-France [l],The French Republic,.fr,FR,FRA
+France,The French Republic,.fr,FR,FRA
 French Guiana,Guyane,.gf,GF,GUF
 French Polynesia,French Polynesia,.pf,PF,PYF
-French Southern Territories (the) [m],The French Southern and Antarctic Lands,.tf,TF,ATF
+French Southern Territories (the),The French Southern and Antarctic Lands,.tf,TF,ATF
 Gabon,The Gabonese Republic,.ga,GA,GAB
 Gambia (the),The Republic of The Gambia,.gm,GM,GMB
 Georgia,Georgia,.ge,GE,GEO
@@ -97,7 +97,7 @@ Guinea-Bissau,The Republic of Guinea-Bissau,.gw,GW,GNB
 Guyana,The Co-operative Republic of Guyana,.gy,GY,GUY
 Haiti,The Republic of Haiti,.ht,HT,HTI
 Heard Island and McDonald Islands,The Territory of Heard Island and McDonald Islands,.hm,HM,HMD
-Holy See (the) [n],The Holy See,.va,VA,VAT
+Holy See (the),The Holy See,.va,VA,VAT
 Honduras,The Republic of Honduras,.hn,HN,HND
 Hong Kong,The Hong Kong Special Administrative Region of China[10],.hk,HK,HKG
 Hungary,Hungary,.hu,HU,HUN
@@ -117,11 +117,11 @@ Jordan,The Hashemite Kingdom of Jordan,.jo,JO,JOR
 Kazakhstan,The Republic of Kazakhstan,.kz,KZ,KAZ
 Kenya,The Republic of Kenya,.ke,KE,KEN
 Kiribati,The Republic of Kiribati,.ki,KI,KIR
-Korea (the Democratic People's Republic of) [o],The Democratic People's Republic of Korea,.kp,KP,PRK
-Korea (the Republic of) [p],The Republic of Korea,.kr,KR,KOR
+Korea (the Democratic People's Republic of),The Democratic People's Republic of Korea,.kp,KP,PRK
+Korea (the Republic of),The Republic of Korea,.kr,KR,KOR
 Kuwait,The State of Kuwait,.kw,KW,KWT
 Kyrgyzstan,The Kyrgyz Republic,.kg,KG,KGZ
-Lao People's Democratic Republic (the) [q],The Lao People's Democratic Republic,.la,LA,LAO
+Lao People's Democratic Republic (the),The Lao People's Democratic Republic,.la,LA,LAO
 Latvia,The Republic of Latvia,.lv,LV,LVA
 Lebanon,The Lebanese Republic,.lb,LB,LBN
 Lesotho,The Kingdom of Lesotho,.ls,LS,LSO
@@ -130,8 +130,8 @@ Libya,The State of Libya,.ly,LY,LBY
 Liechtenstein,The Principality of Liechtenstein,.li,LI,LIE
 Lithuania,The Republic of Lithuania,.lt,LT,LTU
 Luxembourg,The Grand Duchy of Luxembourg,.lu,LU,LUX
-Macao [r],The Macao Special Administrative Region of China[11],.mo,MO,MAC
-North Macedonia [s],The Republic of North Macedonia[12],.mk,MK,MKD
+Macao,The Macao Special Administrative Region of China[11],.mo,MO,MAC
+North Macedonia,The Republic of North Macedonia[12],.mk,MK,MKD
 Madagascar,The Republic of Madagascar,.mg,MG,MDG
 Malawi,The Republic of Malawi,.mw,MW,MWI
 Malaysia,Malaysia,.my,MY,MYS
@@ -152,7 +152,7 @@ Montenegro,Montenegro,.me,ME,MNE
 Montserrat,Montserrat,.ms,MS,MSR
 Morocco,The Kingdom of Morocco,.ma,MA,MAR
 Mozambique,The Republic of Mozambique,.mz,MZ,MOZ
-Myanmar [t],The Republic of the Union of Myanmar,.mm,MM,MMR
+Myanmar,The Republic of the Union of Myanmar,.mm,MM,MMR
 Nauru,The Republic of Nauru,.nr,NR,NRU
 Nepal,The Federal Democratic Republic of Nepal,.np,NP,NPL
 Netherlands (the),The Kingdom of the Netherlands,.nl,NL,NLD
@@ -174,14 +174,14 @@ Papua New Guinea,The Independent State of Papua New Guinea,.pg,PG,PNG
 Paraguay,The Republic of Paraguay,.py,PY,PRY
 Peru,The Republic of Perú,.pe,PE,PER
 Philippines (the),The Republic of the Philippines,.ph,PH,PHL
-Pitcairn [u],"The Pitcairn, Henderson, Ducie and Oeno Islands",.pn,PN,PCN
+Pitcairn,"The Pitcairn, Henderson, Ducie and Oeno Islands",.pn,PN,PCN
 Poland,The Republic of Poland,.pl,PL,POL
 Portugal,The Portuguese Republic,.pt,PT,PRT
 Puerto Rico,The Commonwealth of Puerto Rico,.pr,PR,PRI
 Qatar,The State of Qatar,.qa,QA,QAT
 Réunion,Réunion,.re,RE,REU
 Romania,Romania,.ro,RO,ROU
-Russian Federation (the) [v],The Russian Federation,.ru,RU,RUS
+Russian Federation (the),The Russian Federation,.ru,RU,RUS
 Rwanda,The Republic of Rwanda,.rw,RW,RWA
 Saint Barthélemy,The Collectivity of Saint-Barthélemy,.bl,BL,BLM
 Saint Helena Ascension Island Tristan da Cunha,"Saint Helena, Ascension and Tristan da Cunha",.sh,SH,SHN
@@ -214,12 +214,12 @@ Suriname,The Republic of Suriname,.sr,SR,SUR
 Svalbard Jan Mayen,Svalbard and Jan Mayen,,SJ,SJM
 Sweden,The Kingdom of Sweden,.se,SE,SWE
 Switzerland,The Swiss Confederation,.ch,CH,CHE
-Syrian Arab Republic (the) [x],The Syrian Arab Republic,.sy,SY,SYR
-Taiwan (Province of China) [y],The Republic of China,.tw,TW,TWN
+Syrian Arab Republic (the),The Syrian Arab Republic,.sy,SY,SYR
+Taiwan (Province of China),The Republic of China,.tw,TW,TWN
 Tajikistan,The Republic of Tajikistan,.tj,TJ,TJK
 "Tanzania, the United Republic of",The United Republic of Tanzania,.tz,TZ,TZA
 Thailand,The Kingdom of Thailand,.th,TH,THA
-Timor-Leste [aa],The Democratic Republic of Timor-Leste,.tl,TL,TLS
+Timor-Leste,The Democratic Republic of Timor-Leste,.tl,TL,TLS
 Togo,The Togolese Republic,.tg,TG,TGO
 Tokelau,Tokelau,.tk,TK,TKL
 Tonga,The Kingdom of Tonga,.to,TO,TON
@@ -233,17 +233,17 @@ Uganda,The Republic of Uganda,.ug,UG,UGA
 Ukraine,Ukraine,.ua,UA,UKR
 United Arab Emirates (the),The United Arab Emirates,.ae,AE,ARE
 United Kingdom of Great Britain and Northern Ireland (the),The United Kingdom of Great Britain and Northern Ireland,.uk,GB,GBR
-United States Minor Outlying Islands (the) [ac],"Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island",,UM,UMI
+United States Minor Outlying Islands (the),"Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island",,UM,UMI
 United States of America (the),The United States of America,.us,US,USA
 Uruguay,The Oriental Republic of Uruguay,.uy,UY,URY
 Uzbekistan,The Republic of Uzbekistan,.uz,UZ,UZB
 Vanuatu,The Republic of Vanuatu,.vu,VU,VUT
 Venezuela (Bolivarian Republic of),The Bolivarian Republic of Venezuela,.ve,VE,VEN
-Viet Nam [ae],The Socialist Republic of Viet Nam,.vn,VN,VNM
-Virgin Islands (British) [af],The Virgin Islands,.vg,VG,VGB
-Virgin Islands (U.S.) [ag],The Virgin Islands of the United States,.vi,VI,VIR
+Viet Nam,The Socialist Republic of Viet Nam,.vn,VN,VNM
+Virgin Islands (British),The Virgin Islands,.vg,VG,VGB
+Virgin Islands (U.S.),The Virgin Islands of the United States,.vi,VI,VIR
 Wallis and Futuna,The Territory of the Wallis and Futuna Islands,.wf,WF,WLF
-Western Sahara [ah],The Sahrawi Arab Democratic Republic,,EH,ESH
+Western Sahara,The Sahrawi Arab Democratic Republic,,EH,ESH
 Yemen,The Republic of Yemen,.ye,YE,YEM
 Zambia,The Republic of Zambia,.zm,ZM,ZMB
 Zimbabwe,The Republic of Zimbabwe,.zw,ZW,ZWE
